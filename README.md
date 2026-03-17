@@ -1,2 +1,2 @@
 # Teens-Behaviors-Analysis-
-SQL project on 3,000+ records and 25 columns exploring patterns by gender and age (13–19). Delivered actionable recommendations for parents and educators.  Tools: SQL Server
+### Using _SQL Server_ I Cleaned and preprocessed and Analysized 3,000+ records and 25 columns data about Teens Bahaviors the age (13–19). I made some recommendations for the families to help their Children.
